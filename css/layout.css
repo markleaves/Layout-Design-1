@@ -1,0 +1,128 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.main_container{
+	width:100%;
+	height:1900px;
+	background-color: lightgray;
+	}
+	.header_section{
+		width: 80%;
+		margin: 0 auto;
+	}
+	.header_section .header1{
+		width: 140px;
+		height: 90px;
+		background-color: gray;
+	}
+	.header_section .header2{
+		width: 820px;
+		height: 90px;
+		background-color: gray;
+		display: flex;
+		margin-left: 280px;
+	}
+	.header_section{
+		display: flex;
+	}
+	.card_section .card1{
+		height: 630px;
+		width:48%;
+		background-color: gray;
+	}
+	.card_section .card2{
+		height: 630px;
+		width:48%;
+		background-color: gray;
+		
+	}
+	.card_section{
+		width: 90%;
+		display: flex;
+		    justify-content: space-evenly;
+		margin: 0 auto;
+		
+	}
+	.card_section1 .cards1{
+		width: 280px;
+		height: 270px;
+		background-color: black;
+				border:2px solid white;
+		
+
+		}
+		.card_section1 .cards2{
+		width: 280px;
+		height: 270px;
+		background-color: black;
+				border:2px solid white;
+		
+
+		}
+		.card_section1 .cards3{
+		width: 280px;
+		height: 270px;
+		background-color: black;
+				border:2px solid white;
+		
+
+		}
+		.card_section1 .cards4{
+		width: 280px;
+		height: 270px;
+		background-color: black;
+		border:2px solid white;
+		
+		}
+		.card_section1{
+			width: 80%;
+			margin: 0 auto;
+			position: relative;
+			bottom: 120px;
+			display: flex;
+			gap: 22px;
+			}
+			.header3{
+				width:70%;
+				height: 130px;
+				border: 2px solid white;
+				background-color: gray;
+				margin: 0 auto;
+				position: relative;
+				bottom: 30px;
+			}
+			
+			.card_section2 .card{
+				height: 630px;
+		width:50%;
+		background-color: gray;
+						border: 1px solid white;
+
+			}
+			.card_section2 .card0{
+				height: 630px;
+		width:50%;
+		background-color: gray;
+				border: 1px solid white;
+			}
+			.card_section2{
+				width: 90%;
+				
+				display: flex;
+				 justify-content: space-between;
+		margin: 0 auto;
+			}
+			.header4{
+				width:90%;
+				height: 90px;
+				border: 1px solid white;
+				background-color: gray;
+				margin: 0 auto;
+				position: relative;
+				top: 30px;
+				
+			}
+			
+			
